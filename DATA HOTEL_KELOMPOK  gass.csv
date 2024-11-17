@@ -1,0 +1,1543 @@
+ID;Nationality;Age;BookingsCanceled;PersonsNights;RoomNights;DistributionChannel;MarketSegment;Recomendation
+1;PRT;51;1;8;5;Corporate;Corporate;Yes
+z;PRT;23;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+3;DEU;31;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
+4;FRA;60;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+5;FRA;51;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
+6;JPN;54;0;4;2;Travel Agent/Operator;Other;Yes
+7;JPN;49;0;0;0;Travel Agent/Operator;Other;No
+8;FRA;32;0;10;5;Travel Agent/Operator;Other;Yes
+9;FRA;42;0;0;0;Travel Agent/Operator;Other;No
+10;IRL;25;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+11;IRL;27;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
+12;FRA;58;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+13;FRA;56;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
+14;ESP;42;0;8;4;Direct;Direct;Yes
+15;ESP;57;0;0;0;Direct;Direct;No
+16;FRA;68;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+17;FRA;72;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+18;FRA;71;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+19;FRA;24;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+20;FRA;26;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+21;PRT;21;0;4;2;Travel Agent/Operator;Other;Yes
+22;BEL;50;0;8;4;Direct;Direct;Yes
+23;NLD;52;0;0;0;Direct;Direct;No
+24;FRA;32;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+25;FRA;36;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+26;AUT;64;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+27;FRA;64;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+28;FRA;65;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+29;AUT;47;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+30;AUT;67;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+31;PRT;39;0;18;14;Direct;Corporate;Yes
+32;PRT;71;0;6;3;Direct;Direct;Yes
+33;PRT;41;0;0;0;Direct;Direct;No
+34;PRT;43;0;6;3;Direct;Direct;Yes
+35;PRT;3;0;0;0;Direct;Direct;No
+36;PRT;63;0;0;0;Direct;Direct;No
+37;DEU;30;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+38;DEU;28;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+39;PRT;21;0;1;1;Direct;Complementary;No
+40;PRT;33;0;1;1;Direct;Complementary;No
+41;ITA;52;0;6;3;Travel Agent/Operator;Other;No
+42;ITA;18;0;0;0;Travel Agent/Operator;Other;No
+43;FRA;53;0;10;5;Travel Agent/Operator;Other;Yes
+44;FRA;52;0;0;0;Travel Agent/Operator;Other;No
+45;ITA;48;0;6;3;Travel Agent/Operator;Other;Yes
+46;ITA;17;0;0;0;Travel Agent/Operator;Other;No
+47;CHN;25;0;4;2;Travel Agent/Operator;Other;Yes
+48;CHN;26;0;0;0;Travel Agent/Operator;Other;No
+49;RUS;43;0;2;1;Travel Agent/Operator;Other;Yes
+50;POL;53;0;8;4;Travel Agent/Operator;Other;Yes
+51;POL;53;0;0;0;Travel Agent/Operator;Other;No
+52;ITA;36;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+53;ITA;30;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+54;ITA;32;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+55;PRT;38;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+56;PRT;22;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+57;ITA;40;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+58;ITA;36;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+59;PRT;21;0;2;2;Direct;Complementary;Yes
+60;PRT;20;0;2;1;Direct;Direct;Yes
+61;ITA;39;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+62;ITA;48;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+63;ITA;32;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+64;USA;65;0;14;7;Travel Agent/Operator;Travel Agent/Operator;Yes
+65;HUN;59;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+66;PRT;19;0;3;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+67;FRA;50;0;15;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+68;FRA;13;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+69;FRA;51;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+70;PRT;21;0;8;4;Direct;Direct;Yes
+71;ESP;61;0;0;0;Direct;Direct;No
+72;FRA;69;0;12;6;Direct;Direct;Yes
+73;FRA;69;0;0;0;Direct;Direct;No
+74;FRA;49;0;12;6;Direct;Direct;Yes
+75;FRA;55;0;0;0;Direct;Direct;No
+76;FRA;70;0;12;4;Direct;Direct;Yes
+77;FRA;34;0;8;4;Direct;Direct;Yes
+78;FRA;28;0;8;4;Direct;Direct;Yes
+79;FRA;66;0;8;4;Direct;Direct;Yes
+80;FRA;72;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+81;FRA;71;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+82;ESP;3;0;8;4;Direct;Direct;Yes
+83;ESP;40;0;0;0;Direct;Direct;No
+84;PRT;28;0;12;4;Direct;Direct;Yes
+85;ESP;82;0;0;0;Direct;Direct;No
+86;ESP;35;0;0;0;Direct;Direct;No
+87;ESP;39;0;12;4;Direct;Direct;Yes
+88;ESP;6;0;0;0;Direct;Direct;No
+89;ESP;38;0;0;0;Direct;Direct;No
+90;ESP;42;0;8;4;Direct;Direct;Yes
+91;ESP;70;0;0;0;Direct;Direct;No
+92;ESP;68;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+93;ESP;70;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+94;ESP;60;0;10;5;Travel Agent/Operator;Other;Yes
+95;ESP;57;0;0;0;Travel Agent/Operator;Other;No
+96;ESP;71;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+97;ESP;67;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+98;ESP;62;0;10;5;Travel Agent/Operator;Other;Yes
+99;ESP;57;0;0;0;Travel Agent/Operator;Other;No
+100;CRI;61;0;6;3;Travel Agent/Operator;Other;Yes
+101;PRT;23;0;6;3;Travel Agent/Operator;Other;Yes
+102;FRA;61;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+103;ITA;67;0;6;3;Direct;Direct;No
+104;ITA;65;0;0;0;Direct;Direct;No
+105;BEL;59;0;6;3;Travel Agent/Operator;Other;Yes
+106;PRT;56;0;0;0;Travel Agent/Operator;Other;No
+107;ESP;63;0;6;3;Direct;Direct;Yes
+108;FRA;45;0;6;3;Direct;Direct;Yes
+109;MEX;61;0;0;0;Direct;Direct;No
+110;ESP;66;0;3;3;Direct;Direct;Yes
+111;FRA;13;0;0;0;Direct;Direct;No
+112;ESP;56;0;4;2;Travel Agent/Operator;Other;No
+113;ESP;48;0;0;0;Travel Agent/Operator;Other;No
+114;PRT;34;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+115;ESP;37;0;10;5;Direct;Direct;Yes
+116;RUS;29;0;0;0;Direct;Direct;No
+117;FRA;43;0;16;4;Travel Agent/Operator;Groups;Yes
+118;FRA;10;0;0;0;Travel Agent/Operator;Groups;No
+119;FRA;40;0;0;0;Travel Agent/Operator;Groups;No
+120;FRA;3;0;0;0;Travel Agent/Operator;Groups;No
+121;FRA;8;0;0;0;Travel Agent/Operator;Groups;No
+122;ESP;40;0;6;3;Direct;Direct;Yes
+123;PRT;41;0;9;3;Direct;Direct;Yes
+124;PRT;7;0;0;0;Direct;Direct;No
+125;PRT;4;0;0;0;Direct;Direct;No
+126;ESP;45;0;6;3;Direct;Direct;Yes
+127;PRT;44;0;8;2;Direct;Direct;Yes
+128;PRT;9;0;0;0;Direct;Direct;No
+129;PRT;13;0;0;0;Direct;Direct;No
+130;PRT;40;0;0;0;Direct;Direct;No
+131;FRA;51;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+132;FRA;65;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+133;ESP;43;0;6;3;Direct;Direct;Yes
+134;ESP;40;0;0;0;Direct;Direct;No
+135;PRT;45;0;4;1;Direct;Direct;Yes
+136;CHE;60;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+137;CHE;62;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+138;FRA;72;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+139;FRA;66;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+140;FRA;63;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+141;CHE;37;0;12;6;Travel Agent/Operator;Travel Agent/Operator;Yes
+142;CHE;39;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+143;FRA;59;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+144;FRA;60;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+145;FRA;61;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+146;FRA;60;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+147;ESP;36;0;2;1;Direct;Direct;No
+148;ESP;44;0;0;0;Direct;Direct;No
+149;USA;34;0;8;2;Travel Agent/Operator;Other;Yes
+150;USA;33;0;0;0;Travel Agent/Operator;Other;No
+151;USA;10;0;0;0;Travel Agent/Operator;Other;No
+152;USA;22;0;0;0;Travel Agent/Operator;Other;No
+153;USA;33;0;0;0;Travel Agent/Operator;Other;No
+154;PRT;43;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+155;PRT;60;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+156;PRT;72;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+157;CRI;38;0;6;3;Travel Agent/Operator;Other;Yes
+158;FRA;61;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+159;PRT;46;0;18;6;Direct;Direct;Yes
+160;FRA;43;0;0;0;Direct;Direct;Yes
+161;FRA;20;0;0;0;Direct;Direct;Yes
+162;USA;68;0;15;5;Travel Agent/Operator;Other;Yes
+163;USA;27;0;0;0;Travel Agent/Operator;Other;No
+164;USA;63;0;0;0;Travel Agent/Operator;Other;No
+165;FRA;67;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+166;FRA;64;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+167;DEU;60;0;22;11;Travel Agent/Operator;Travel Agent/Operator;Yes
+168;DEU;50;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+169;ESP;53;0;8;4;Travel Agent/Operator;Other;Yes
+170;ESP;54;0;0;0;Travel Agent/Operator;Other;No
+171;ITA;55;0;12;4;Travel Agent/Operator;Groups;Yes
+172;ITA;53;0;0;0;Travel Agent/Operator;Groups;No
+173;ITA;14;0;0;0;Travel Agent/Operator;Groups;No
+174;PRT;55;0;8;4;Travel Agent/Operator;Groups;Yes
+175;ITA;59;0;8;4;Travel Agent/Operator;Groups;Yes
+176;ITA;55;0;0;0;Travel Agent/Operator;Groups;No
+177;PRT;34;0;8;4;Travel Agent/Operator;Other;Yes
+178;ITA;34;0;8;4;Travel Agent/Operator;Groups;Yes
+179;ITA;43;0;0;0;Travel Agent/Operator;Groups;No
+180;ITA;38;0;8;4;Travel Agent/Operator;Groups;Yes
+181;ITA;35;0;0;0;Travel Agent/Operator;Groups;No
+182;DEU;67;0;4;2;Travel Agent/Operator;Other;Yes
+183;DEU;54;0;0;0;Travel Agent/Operator;Other;No
+184;ITA;58;0;8;4;Travel Agent/Operator;Other;Yes
+185;ITA;53;0;0;0;Travel Agent/Operator;Other;No
+186;ITA;55;0;8;4;Travel Agent/Operator;Other;Yes
+187;ITA;58;0;0;0;Travel Agent/Operator;Other;No
+188;FRA;72;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+189;FRA;74;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+190;PRT;53;0;8;4;Travel Agent/Operator;Groups;Yes
+191;ITA;35;0;8;4;Travel Agent/Operator;Groups;Yes
+192;ITA;38;0;0;0;Travel Agent/Operator;Groups;No
+193;FRA;69;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+194;FRA;63;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+195;FRA;33;0;3;3;Travel Agent/Operator;Travel Agent/Operator;No
+196;JPN;47;0;4;1;Travel Agent/Operator;Other;Yes
+;JPN;45;0;0;0;Travel Agent/Operator;Other;No
+198;JPN;14;0;0;0;Travel Agent/Operator;Other;No
+199;JPN;11;0;0;0;Travel Agent/Operator;Other;No
+200;FRA;33;0;3;3;Travel Agent/Operator;Travel Agent/Operator;No
+201;PRT;65;0;8;4;Travel Agent/Operator;Groups;Yes
+202;PRT;45;0;9;3;Travel Agent/Operator;Groups;Yes
+203;PRT;33;0;3;3;Travel Agent/Operator;Groups;Yes
+204;PRT;60;0;8;4;Travel Agent/Operator;Groups;Yes
+205;PRT;58;0;0;0;Travel Agent/Operator;Groups;No
+206;FRA;53;0;10;5;Travel Agent/Operator;Other;No
+207;FRA;46;0;0;0;Travel Agent/Operator;Other;No
+208;FRA;73;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+209;CHE;69;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+210;JPN;52;0;6;2;Travel Agent/Operator;Other;Yes
+211;JPN;42;0;0;0;Travel Agent/Operator;Other;Yes
+212;PRT;38;0;2;1;Direct;Direct;No
+213;PRT;40;0;0;0;Direct;Direct;Yes
+214;DEU;53;0;21;7;Direct;Direct;Yes
+215;DEU;47;0;0;0;Direct;Direct;No
+216;DEU;23;0;0;0;Direct;Direct;No
+217;PRT;43;0;8;4;Travel Agent/Operator;Groups;Yes
+218;ITA;57;0;6;3;Travel Agent/Operator;Groups;Yes
+219;ITA;69;0;0;0;Travel Agent/Operator;Groups;No
+220;ESP;41;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+221;ESP;62;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+222;PRT;32;0;6;3;Travel Agent/Operator;Other;Yes
+223;PRT;45;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+224;ITA;41;0;6;3;Travel Agent/Operator;Groups;Yes
+225;FRA;29;0;0;0;Travel Agent/Operator;Groups;No
+226;ITA;32;0;0;0;Travel Agent/Operator;Groups;No
+227;PRT;21;0;2;1;Direct;Direct;Yes
+228;FRA;44;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+229;FRA;43;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+230;FRA;52;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+231;PRT;42;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+232;ITA;25;0;8;4;Travel Agent/Operator;Groups;Yes
+233;ITA;25;0;0;0;Travel Agent/Operator;Groups;No
+234;PRT;23;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+235;FRA;60;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+236;FRA;54;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+237;FRA;47;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+238;FRA;39;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+239;FRA;63;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+240;FRA;54;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+241;FRA;59;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+242;CHE;26;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+243;CHE;24;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+244;FRA;39;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+245;ROU;61;0;22;11;Travel Agent/Operator;Travel Agent/Operator;Yes
+246;ROU;28;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+247;PRT;35;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+248;FRA;42;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+249;FRA;34;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+250;FRA;56;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+251;FRA;30;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+252;FRA;30;0;16;8;Travel Agent/Operator;Other;Yes
+253;FRA;32;0;0;0;Travel Agent/Operator;Other;No
+254;ROU;30;0;22;11;Travel Agent/Operator;Travel Agent/Operator;Yes
+255;ROU;58;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+256;ESP;31;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+257;ESP;28;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+258;FRA;58;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+259;FRA;54;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+260;FRA;60;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+261;PRT;38;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+262;ITA;34;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+263;GBR;65;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+264;GBR;65;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+265;PRT;34;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+266;PRT;36;0;3;3;Direct;Direct;No
+267;PRT;21;0;4;2;Direct;Complementary;Yes
+268;PRT;46;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+269;FRA;45;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+270;FRA;56;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+271;BIH;33;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+272;PRT;22;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+273;FRA;65;0;12;6;Travel Agent/Operator;Other;Yes
+274;FRA;68;0;0;0;Travel Agent/Operator;Other;No
+275;ESP;43;0;10;5;Travel Agent/Operator;Other;Yes
+276;ESP;35;0;0;0;Travel Agent/Operator;Other;No
+277;CHE;28;0;10;5;Direct;Direct;Yes
+278;ESP;29;0;0;0;Direct;Direct;No
+279;ESP;44;0;10;5;Travel Agent/Operator;Other;Yes
+280;ESP;43;0;0;0;Travel Agent/Operator;Other;No
+281;ITA;71;0;6;3;Travel Agent/Operator;Groups;Yes
+282;ITA;69;0;0;0;Travel Agent/Operator;Groups;No
+283;PRT;43;0;6;3;Travel Agent/Operator;Groups;Yes
+284;FRA;55;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+285;FRA;51;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+286;PRT;32;0;6;3;Travel Agent/Operator;Groups;Yes
+287;ITA;65;0;6;3;Travel Agent/Operator;Groups;Yes
+288;ITA;74;0;0;0;Travel Agent/Operator;Groups;No
+289;PRT;31;0;6;3;Travel Agent/Operator;Groups;Yes
+290;PRT;21;0;3;3;Travel Agent/Operator;Groups;Yes
+291;ITA;43;0;0;0;Travel Agent/Operator;Groups;No
+292;PRT;22;0;6;3;Travel Agent/Operator;Groups;Yes
+293;PRT;19;0;0;0;Travel Agent/Operator;Groups;No
+294;PRT;58;0;6;3;Travel Agent/Operator;Groups;Yes
+295;PRT;59;0;0;0;Travel Agent/Operator;Groups;No
+296;PRT;54;0;6;3;Travel Agent/Operator;Groups;Yes
+297;PRT;50;0;0;0;Travel Agent/Operator;Groups;No
+298;PRT;78;0;6;3;Travel Agent/Operator;Groups;Yes
+299;PRT;77;0;0;0;Travel Agent/Operator;Groups;No
+300;PRT;68;0;6;3;Travel Agent/Operator;Groups;Yes
+301;PRT;71;0;0;0;Travel Agent/Operator;Groups;No
+302;PRT;31;0;8;4;Travel Agent/Operator;Other;Yes
+303;PRT;31;0;8;4;Travel Agent/Operator;Other;Yes
+304;BRA;41;0;15;5;Travel Agent/Operator;Other;Yes
+305;BRA;21;0;0;0;Travel Agent/Operator;Other;No
+306;BRA;42;0;0;0;Travel Agent/Operator;Other;No
+307;ITA;58;0;3;3;Travel Agent/Operator;Groups;Yes
+308;ITA;60;0;6;3;Travel Agent/Operator;Groups;Yes
+309;ITA;65;0;0;0;Travel Agent/Operator;Groups;No
+310;ITA;66;0;6;3;Travel Agent/Operator;Groups;Yes
+311;ITA;63;0;0;0;Travel Agent/Operator;Groups;No
+312;ITA;44;0;3;3;Travel Agent/Operator;Groups;Yes
+313;ITA;61;0;3;3;Travel Agent/Operator;Groups;Yes
+314;ITA;63;0;3;3;Travel Agent/Operator;Groups;Yes
+315;ITA;68;0;6;3;Travel Agent/Operator;Groups;Yes
+316;ITA;59;0;0;0;Travel Agent/Operator;Groups;No
+317;ITA;65;0;6;3;Travel Agent/Operator;Groups;Yes
+318;ITA;69;0;0;0;Travel Agent/Operator;Groups;No
+319;ITA;41;0;6;3;Travel Agent/Operator;Groups;Yes
+320;ITA;38;0;0;0;Travel Agent/Operator;Groups;No
+321;ITA;67;0;3;3;Travel Agent/Operator;Groups;Yes
+322;ITA;74;0;6;3;Travel Agent/Operator;Groups;Yes
+323;PRT;43;0;3;3;Travel Agent/Operator;Groups;Yes
+324;ITA;42;0;6;3;Travel Agent/Operator;Groups;Yes
+325;ITA;14;0;0;0;Travel Agent/Operator;Groups;No
+326;ITA;39;0;6;3;Travel Agent/Operator;Groups;Yes
+327;ITA;71;0;6;3;Travel Agent/Operator;Groups;Yes
+328;ITA;52;0;6;3;Travel Agent/Operator;Groups;Yes
+329;ITA;76;0;0;0;Travel Agent/Operator;Groups;No
+330;ITA;58;0;6;3;Travel Agent/Operator;Groups;Yes
+331;ITA;50;0;0;0;Travel Agent/Operator;Groups;No
+332;ITA;72;0;3;3;Travel Agent/Operator;Groups;Yes
+333;ITA;47;0;6;3;Travel Agent/Operator;Groups;Yes
+334;ITA;11;0;0;0;Travel Agent/Operator;Groups;No
+335;DEU;30;0;12;6;Travel Agent/Operator;Travel Agent/Operator;Yes
+336;DEU;25;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+337;ITA;75;0;0;0;Travel Agent/Operator;Groups;No
+338;ITA;65;0;6;3;Travel Agent/Operator;Groups;Yes
+339;ITA;60;0;0;0;Travel Agent/Operator;Groups;No
+340;PRT;38;0;6;3;Travel Agent/Operator;Groups;Yes
+341;PRT;43;0;0;0;Travel Agent/Operator;Groups;No
+342;PRT;21;0;6;3;Travel Agent/Operator;Groups;Yes
+343;PRT;22;0;6;3;Travel Agent/Operator;Groups;Yes
+344;ESP;57;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+345;ESP;53;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+346;PRT;43;0;6;3;Travel Agent/Operator;Groups;Yes
+347;ITA;59;0;6;3;Travel Agent/Operator;Groups;Yes
+348;ITA;51;0;0;0;Travel Agent/Operator;Groups;No
+349;ITA;57;0;6;3;Travel Agent/Operator;Groups;Yes
+350;ITA;57;0;0;0;Travel Agent/Operator;Groups;No
+351;PRT;21;0;6;3;Travel Agent/Operator;Groups;Yes
+352;PRT;72;0;0;0;Travel Agent/Operator;Groups;No
+353;PRT;13;0;14;7;Travel Agent/Operator;Other;Yes
+354;PRT;15;0;0;0;Travel Agent/Operator;Other;No
+355;PRT;48;0;14;7;Travel Agent/Operator;Other;Yes
+356;PRT;45;0;0;0;Travel Agent/Operator;Other;No
+357;PRT;73;0;6;3;Travel Agent/Operator;Groups;Yes
+358;PRT;72;0;0;0;Travel Agent/Operator;Groups;No
+359;PRT;68;0;6;3;Travel Agent/Operator;Groups;Yes
+360;PRT;72;0;0;0;Travel Agent/Operator;Groups;No
+361;PRT;41;0;3;3;Travel Agent/Operator;Groups;Yes
+362;PRT;78;0;0;0;Travel Agent/Operator;Groups;No
+363;PRT;83;0;6;3;Travel Agent/Operator;Groups;Yes
+364;PRT;73;0;0;0;Travel Agent/Operator;Groups;No
+365;CHE;54;0;30;10;Travel Agent/Operator;Travel Agent/Operator;Yes
+366;CHE;43;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+367;CHE;21;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+368;PRT;30;0;12;4;Travel Agent/Operator;Other;Yes
+369;FRA;25;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+370;FRA;24;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+371;ITA;70;0;6;3;Travel Agent/Operator;Groups;Yes
+372;ITA;67;0;0;0;Travel Agent/Operator;Groups;No
+373;PRT;21;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+374;ESP;27;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+375;PRT;67;0;1;1;Corporate;Corporate;Yes
+376;PRT;43;0;2;1;Direct;Direct;Yes
+377;PRT;25;0;0;0;Direct;Direct;No
+378;ITA;55;0;3;3;Travel Agent/Operator;Groups;Yes
+379;PRT;44;0;22;18;Corporate;Corporate;Yes
+380;USA;72;0;1;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+381;DEU;68;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+382;DEU;68;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+383;DEU;55;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+384;DEU;64;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+385;PRT;28;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+386;PRT;30;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+387;FRA;66;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+388;FRA;65;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+389;FIN;37;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+390;FIN;47;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+391;ITA;25;0;12;6;Travel Agent/Operator;Other;Yes
+392;ITA;56;0;0;0;Travel Agent/Operator;Other;No
+393;FRA;66;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+394;FRA;56;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+395;DEU;27;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+396;DEU;31;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+397;IRL;50;0;6;3;Direct;Direct;Yes
+398;IRL;50;0;0;0;Direct;Direct;No
+399;PRT;44;0;2;1;Direct;Direct;Yes
+400;PRT;33;0;2;1;Direct;Direct;Yes
+401;DEU;58;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+402;DEU;50;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+403;FRA;38;0;3;3;Corporate;Corporate;Yes
+404;PRT;61;0;8;4;Travel Agent/Operator;Other;Yes
+405;AUT;58;0;0;0;Travel Agent/Operator;Other;No
+406;FRA;63;0;3;3;Corporate;Corporate;Yes
+407;PRT;39;0;2;1;Direct;Direct;Yes
+408;PRT;38;0;0;0;Direct;Direct;No
+409;PRT;45;0;2;1;Direct;Direct;Yes
+410;ESP;49;0;2;1;Direct;Direct;Yes
+411;PRT;31;0;14;7;Travel Agent/Operator;Travel Agent/Operator;Yes
+412;ESP;56;0;2;2;Direct;Direct;Yes
+413;ESP;44;0;4;4;Corporate;Corporate;Yes
+414;PRT;52;0;8;4;Travel Agent/Operator;Groups;Yes
+415;FRA;31;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+416;FRA;35;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+417;AGO;52;0;2;1;Direct;Direct;Yes
+418;AGO;18;0;0;0;Direct;Direct;No
+419;FRA;41;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+420;ESP;41;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+421;USA;68;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+422;USA;68;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+423;PRT;31;0;2;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+424;PRT;53;0;1;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+425;AGO;42;0;2;1;Direct;Direct;Yes
+426;PRT;35;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+427;PRT;75;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+428;FRA;69;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+429;PRT;22;0;14;14;Direct;Complementary;Yes
+430;PRT;34;0;2;1;Travel Agent/Operator;Other;Yes
+431;FRA;56;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+432;FRA;45;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+433;DEU;67;0;12;6;Travel Agent/Operator;Travel Agent/Operator;Yes
+434;DEU;53;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+435;IRL;50;0;4;2;Direct;Direct;Yes
+436;IRL;12;0;0;0;Direct;Direct;No
+437;IRL;15;0;0;0;Direct;Direct;No
+438;IRL;11;0;0;0;Direct;Direct;No
+439;PRT;23;0;6;2;Direct;Direct;Yes
+440;ROU;57;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+441;ROU;51;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+442;ROU;43;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+443;ROU;40;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+444;ROU;47;0;4;2;Travel Agent/Operator;Travel Agent/Operator;Yes
+445;ROU;39;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+446;FRA;54;0;12;6;Travel Agent/Operator;Travel Agent/Operator;Yes
+447;FRA;52;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+448;AGO;52;0;2;1;Direct;Direct;Yes
+449;NLD;36;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+450;NLD;32;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+451;PRT;45;0;4;2;Direct;Complementary;Yes
+452;PRT;72;0;0;0;Direct;Complementary;No
+453;USA;32;0;2;1;Travel Agent/Operator;Other;Yes
+454;USA;45;0;0;0;Travel Agent/Operator;Other;No
+455;PRT;56;0;1;1;Corporate;Corporate;Yes
+456;PRT;65;0;2;1;Corporate;Corporate;Yes
+457;PRT;41;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+458;FRA;39;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+459;CAN;51;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+460;FRA;53;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+461;FRA;57;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+462;DEU;39;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+463;PRT;30;0;5;5;Direct;Direct;Yes
+464;GBR;64;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+465;GBR;63;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+466;BEL;62;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+467;BEL;54;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+468;GBR;41;0;3;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+469;FRA;51;0;10;5;Travel Agent/Operator;Other;Yes
+470;FRA;64;0;0;0;Travel Agent/Operator;Other;No
+471;PRT;64;0;1;1;Direct;Direct;Yes
+472;PRT;41;0;1;1;Direct;Direct;Yes
+473;PRT;58;0;2;1;Travel Agent/Operator;Other;Yes
+474;PRT;39;0;0;0;Travel Agent/Operator;Other;No
+475;PRT;58;0;6;3;Travel Agent/Operator;Travel Agent/Operator;No
+476;HUN;29;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+477;DEU;55;0;5;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+478;ZAF;51;0;12;6;Travel Agent/Operator;Other;Yes
+479;PRT;51;0;0;0;Travel Agent/Operator;Other;No
+480;POL;59;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+481;POL;56;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+482;PRT;60;0;4;4;Direct;Direct;Yes
+483;FRA;32;0;9;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+484;FRA;32;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+485;FRA;74;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+486;PRT;39;0;1;1;Direct;Direct;No
+487;FRA;40;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+488;FRA;38;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+489;NLD;39;0;1;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+490;BEL;48;0;12;4;Travel Agent/Operator;Other;Yes
+491;TWN;70;0;0;0;Travel Agent/Operator;Other;No
+492;BEL;53;0;0;0;Travel Agent/Operator;Other;No
+493;PRT;54;0;1;1;Direct;Direct;No
+494;FRA;30;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+495;FRA;36;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+496;AGO;52;0;4;2;Direct;Direct;Yes
+497;AGO;18;0;0;0;Direct;Direct;No
+498;USA;66;0;14;7;Travel Agent/Operator;Other;Yes
+499;USA;67;0;0;0;Travel Agent/Operator;Other;No
+500;FRA;30;0;1;1;Travel Agent/Operator;Other;Yes
+501;PRT;42;0;0;0;Travel Agent/Operator;Other;No
+502;DEU;61;0;2;1;Travel Agent/Operator;Other;Yes
+503;PRT;32;0;1;1;Corporate;Corporate;No
+504;PRT;31;0;1;1;Corporate;Corporate;No
+505;PRT;31;0;1;1;Corporate;Corporate;No
+506;PRT;27;0;1;1;Corporate;Corporate;No
+507;PRT;35;0;1;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+508;ITA;50;0;1;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+509;PRT;34;0;2;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+519;AGO;34;0;0;0;Travel Agent/Operator;Other;No
+520;PRT;51;0;3;1;Travel Agent/Operator;Travel Agent/Operator;Yes
+521;PRT;50;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+522;FRA;64;0;8;4;Travel Agent/Operator;Travel Agent/Operator;Yes
+523;PRT;44;0;2;1;Direct;Direct;Yes
+524;FRA;42;0;4;2;Travel Agent/Operator;Other;Yes
+525;FRA;31;0;0;0;Travel Agent/Operator;Other;No
+526;DEU;46;0;2;2;Travel Agent/Operator;Other;Yes
+527;FRA;36;0;6;3;Travel Agent/Operator;Travel Agent/Operator;Yes
+528;FRA;38;0;0;0;Travel Agent/Operator;Travel Agent/Operator;No
+529;BEL;38;0;6;3;Direct;Direct;Yes
+530;BEL;37;0;0;0;Direct;Direct;No
+531;PRT;32;0;2;1;Direct;Direct;Yes
+532;PRT;32;0;0;0;Direct;Direct;No
+533;PRT;34;0;6;3;Travel Agent/Operator;Groups;Yes
+534;FRA;64;0;6;3;Travel Agent/Operator;Groups;Yes
+535;FRA;50;0;0;0;Travel Agent/Operator;Groups;No
+536;FRA;34;0;0;0;Travel Agent/Operator;Groups;No
+537;FRA;66;0;6;3;Travel Agent/Operator;Groups;Yes
+538;FRA;53;0;6;3;Travel Agent/Operator;Groups;Yes
+539;FRA;47;0;6;3;Travel Agent/Operator;Groups;Yes
+540;FRA;27;0;3;3;Travel Agent/Operator;Groups;Yes
+541;FRA;31;0;6;3;Travel Agent/Operator;Groups;Yes
+542;FRA;31;0;6;3;Travel Agent/Operator;Groups;Yes
+543;FRA;38;0;6;3;Travel Agent/Operator;Groups;Yes
+544;FRA;28;0;6;3;Travel Agent/Operator;Groups;Yes
+545;FRA;38;0;6;3;Travel Agent/Operator;Groups;Yes
+546;FRA;36;0;6;3;Travel Agent/Operator;Groups;Yes
+547;FRA;41;0;6;3;Travel Agent/Operator;Groups;Yes
+548;PRT;54;0;6;3;Travel Agent/Operator;Groups;Yes
+549;PRT;33;0;6;3;Travel Agent/Operator;Groups;Yes
+550;PRT;31;0;0;0;Travel Agent/Operator;Groups;No
+551;FRA;41;0;3;3;Travel Agent/Operator;Groups;Yes
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
