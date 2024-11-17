@@ -1,6 +1,6 @@
 ID;Nationality;Age;BookingsCanceled;PersonsNights;RoomNights;DistributionChannel;MarketSegment;Recomendation
 1;PRT;51;1;8;5;Corporate;Corporate;Yes
-z;PRT;23;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
+2;PRT;23;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
 3;DEU;31;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
 4;FRA;60;0;10;5;Travel Agent/Operator;Travel Agent/Operator;Yes
 5;FRA;51;0;0;0;Travel Agent/Operator;Travel Agent/Operator;Yes
